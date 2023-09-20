@@ -1,0 +1,67 @@
+{"items":[
+	{
+		"id": "001",
+		"title": "Karapapak Chutney",
+		"price": "$5",
+		"category": "Chutney",
+		"description": "Karapapak chutney is a traditional condiment that originates from the Karapapak region, which spans parts of Turkey, Azerbaijan, and Iran. It is a flavorful and spicy chutney that adds a tangy kick to various dishes."
+	},
+    {
+		"id": "002",
+		"title": "Tomato Chutney",
+		"price": "$8",
+		"category": "Chutney",
+		"description": "Karapapak chutney is a traditional condiment that originates from the Karapapak region, which spans parts of Turkey, Azerbaijan, and Iran. It is a flavorful and spicy chutney that adds a tangy kick to various dishes."
+	},
+    {
+		"id": "003",
+		"title": "Mango Chutney",
+		"price": "$11",
+		"category": "Chutney",
+		"description": "Avakai is a popular and traditional pickle originating from the southern state of Andhra Pradesh in India. It is a mouthwatering condiment made from raw mangoes that have been carefully spiced, seasoned, and fermented to create a unique and flavorful pickle."
+	},
+    {
+		"id": "004",
+		"title": "Sambar Masala",
+		"price": "$14",
+		"category": "Masala",
+		"description": "Sambar powder is a quintessential spice blend used in South Indian cuisine, particularly for making sambar—a flavorful lentil and vegetable stew. It typically includes a combination of dried red chilies, coriander seeds, cumin seeds, fenugreek seeds, black peppercorns, curry leaves, turmeric, and sometimes other spices like cinnamon, cloves, and asafoetida. The blend varies slightly across different regions and households, but it always adds a distinctive flavor and aroma to sambar.."
+	},
+    {
+		"id": "005",
+		"title": "Rasam Masala",
+		"price": "$17",
+		"category": "Masala",
+		"description": "Rasam is a tangy and comforting South Indian soup traditionally made with tamarind juice, tomatoes, and spices. Rasam powder is a key component of this dish and consists of ingredients like dried red chilies, coriander seeds, cumin seeds, black pepper, fenugreek seeds, asafoetida, and curry leaves. The combination of these spices imparts a unique and zesty taste to rasam."
+	},
+    {
+		"id": "006",
+		"title": "Bisi Bele Bath Masala:",
+		"price": "$20",
+		"category": "Masala",
+		"description": "Bisi Bele Bath is a popular rice dish from Karnataka, South India, which translates to hot lentil rice in English. Bisi Bele Bath powder is a special spice blend used to prepare this flavorful one-pot dish. The masala typically includes ingredients like dried red chilies, coriander seeds, chana dal (split Bengal gram), urad dal (split black gram), fenugreek seeds, cinnamon, cloves, cardamom, poppy seeds, and curry leaves. This aromatic blend adds depth and richness to the dish, complementing the lentils, rice, and vegetables in Bisi Bele Bath."
+	},
+    {
+		"id": "007",
+		"title": "Mustard Seeds Tadka",
+		"price": "$23",
+		"category": "Tadka",
+		"description": "Mustard seeds tadka is a classic and widely used tempering in South Indian cuisine. It typically involves heating oil or ghee in a pan and adding mustard seeds to it. As the oil heats up, the mustard seeds start to crackle and pop. This process releases the aroma and nutty flavor of the mustard seeds, infusing the oil with their essence. The mustard seeds tadka is often the starting point for many South Indian recipes, providing a delicious and aromatic base for curries, dals, and chutneys."
+	},
+    {
+		"id": "008",
+		"title": "Curry Leaf Tadka",
+		"price": "$26",
+		"category": "Tadka",
+		"description": "Curry Leaves Tadka: Curry leaves are an integral part of South Indian cooking, and their tadka imparts a distinct and fragrant flavor to dishes. To prepare a curry leaves tadka, oil or ghee is heated in a pan, and fresh curry leaves are added. The leaves are fried until they turn crispy and release their unique aroma. The curry leaves tadka is commonly used in rasam, sambar, and various vegetable stir-fries, enhancing the overall taste and aroma of the dish."
+	},
+    
+    {
+		"id": "009",
+		"title": "Red Chili Tadka",
+		"price": "$29",
+		"category": "Tadka",
+		"description": "Red chili tadka adds a spicy and smoky element to South Indian dishes. Whole dried red chilies are heated in oil or ghee until they become crisp and slightly darkened. This tadka infuses the oil with the heat and flavor of the red chilies, which can vary from mild to fiery, depending on the type of chili used. The red chili tadka is often added to lentil-based dishes like sambar and rasam, providing a vibrant kick and depth of flavor."
+	}
+    
+]}

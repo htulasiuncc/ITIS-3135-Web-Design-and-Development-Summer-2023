@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spices and Chutneys - Products</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scriptFetch.js" defer></script>
+</head>
+<body>
+    <header>
+        <div class="branding">
+            <h1>Chutney Cart</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="products">
+            <h2>Our Products</h2>
+            <div class="product-grid">
+                <div class="product">
+                    <img src="chutney.jpg" alt="Chutney">
+                    <h3>Chutneys</h3>
+                    <p>Explore our delicious chutney collection made from fresh ingredients.</p>
+                    <button onclick="fetchProducts('Chutney')">View Details</button>
+                    <div id="chutneyList"></div>
+                </div>
+                <div class="product">
+                    <img src="masalas.jpg" alt="Masalas">
+                    <h3>Masalas</h3>
+                    <p>Experience the authentic taste of Indian cuisine with our aromatic masalas.</p>
+                    <button onclick="fetchProducts('Masala')">View Details</button>
+                    <div id="masalaList"></div>
+                </div>
+                <div class="product">
+                    <img src="tadka.jpg" alt="Tadka">
+                    <h3>Tadka</h3>
+                    <p>Enhance the flavors of your dishes with our premium Tadka.</p>
+                    <button onclick="fetchProducts('Tadka')">View Details</button>
+                    <div id="tadkaList"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2023 Chutney Cart. All rights reserved.</p>
+            <div class="social-media">
+                <a href="#"><img src="facebook.png" alt="Facebook"></a>
+                <a href="#"><img src="twitter.png" alt="Twitter"></a>
+                <a href="#"><img src="instagram.png" alt="Instagram"></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
